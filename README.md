@@ -1,9 +1,16 @@
-- 👋 Olá, sou o Julio de Oliveira.
-- 👀 Tenho interesse na parte de segurança da informação e automatização
-- 🌱 Aualmente estou aprendendo Cibersegurança e Python
-- 📫 Você pode me contactar pelo e-mail: julioholiveira7@gmail.com
-- :page_facing_up: O meu perfil profissional do Linkdin é: https://www.linkedin.com/in/julioholiveira/
-<!---
-julioho7/julioho7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, mundo! Sou o Julio Henrique de Oliveira.
+
+- 👀 Sou um grande interessado e pesquisados da Tecnologia da Informação de um modo geral.
+
+- 🔐 Aualmente estou aprofundado meus conhecimentos em **Cibersegurança** em certificações da **EC-COUNCIL**, sendo elas:
+- **N**etwork **D**efense **E**ssentials
+- **E**tical **H**acking **E**ssentials
+- **D**igital **F**orensics **E**ssentials
+
+- 🧑🏻‍💻 Estou aprofundando meus estudos nas linguagens Python e Flutter.
+
+- 🧠 Já tenho um conhecimento básico em linguagem Java, C# além de HTML e CSS.
+
+- 📫 Me contacte pelo e-mail: **julioholiveira7@gmail.com**
+
+- 📄 Me encontre no Linkdin pelo link: https://www.linkedin.com/in/julioholiveira/
