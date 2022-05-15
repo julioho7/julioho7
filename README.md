@@ -1,6 +1,6 @@
 - 👋 Olá, mundo! Sou o Julio Henrique de Oliveira.
 
-- 👀 Sou um grande interessado e pesquisados da Tecnologia da Informação de um modo geral.
+- 👀 Sou um grande interessado e pesquisador da área da Tecnologia da Informação de um modo geral.
 
 - 🔐 Aualmente estou aprofundado meus conhecimentos em **Cibersegurança** em certificações da **EC-COUNCIL**, sendo elas:
 - **N**etwork **D**efense **E**ssentials
