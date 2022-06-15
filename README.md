@@ -7,9 +7,15 @@
 - **E**tical **H**acking **E**ssentials
 - **D**igital **F**orensics **E**ssentials
 
-- 🧑🏻‍💻 Estou aprofundando meus estudos nas linguagens Python e Flutter.
+- 🧑🏻‍💻📱 Estou aprofundando meus estudos nas linguagens Kotlin/Java para desenvolvimento Mobile (Bootcamp Santander)
 
-- 🧠 Já tenho um conhecimento básico em linguagem Java, C# além de HTML e CSS.
+- 🧑🏻‍💻🤖 Estou também aprofundando meus estudos na linguagem Python (Curso em Vídeo)
+
+- 👨🏻‍🎓⌛ Possuo certificado em Teste e Qualidade de Software e metodologias ágeis
+
+- 👨🏻‍🎓🔐 Possuo certificado em Política, Normas e Cultura de Segurança de Informação
+
+- 🧠 Tenho um conhecimento básico em linguagem C#, JavaScript além de HTML e CSS e também na linguagem de dados MySQL.
 
 - 📫 Me contacte pelo e-mail: **julioholiveira7@gmail.com**
 
@@ -29,9 +35,9 @@
 <p>Linguagens que possuo algum conhecimento e que você encontrará projetos aqui 👇</p>
     
 <div style="display: inline_block"><br>
+  <img align='center' height='50' width='60' src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
+  <img align='center' height='50' width='60' src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   <img align='center' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align='center' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align='center' height='50' width='60' src="https://cdn-icons.flaticon.com/png/512/2273/premium/2273145.png?token=exp=1652659335~hmac=b2965ec8f77af9ebc8a5a45f2b5492b8"/>
   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
