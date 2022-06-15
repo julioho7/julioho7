@@ -26,7 +26,7 @@
 
 ##
     
-<p>Linguagens que possuo algum conhecimento e você pode encontrar alguns projetos aqui 👇</p>
+<p>Linguagens que possuo algum conhecimento e que você encontrará projetos aqui 👇</p>
     
 <div style="display: inline_block"><br>
   <img align='center' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
