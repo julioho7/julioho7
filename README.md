@@ -15,7 +15,7 @@
 
 - 👨🏻‍🎓🔐 Possuo certificado em Política, Normas e Cultura de Segurança de Informação
 
-- 🧠 Tenho um conhecimento básico em linguagem C#, JavaScript além de HTML e CSS e também na linguagem de dados MySQL.
+- 🧠 Tenho um conhecimento nas linguagens Kotlin, Java, C#, JavaScript. Possuo conhecimento também em HTML, CSS e na linguagem de dados SQL.
 
 - 📫 Me contacte pelo e-mail: **julioholiveira7@gmail.com**
 
