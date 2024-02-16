@@ -7,15 +7,13 @@
 - **E**tical **H**acking **E**ssentials
 - **D**igital **F**orensics **E**ssentials
 
-- 🧑🏻‍💻📱 Estou aprofundando meus estudos nas linguagens Kotlin/Java para desenvolvimento Mobile (Bootcamp Santander)
-
 - 🧑🏻‍💻🤖 Estou também aprofundando meus estudos na linguagem Python (Curso em Vídeo)
 
 - 👨🏻‍🎓⌛ Possuo certificado em Teste e Qualidade de Software e metodologias ágeis
 
 - 👨🏻‍🎓🔐 Possuo certificado em Política, Normas e Cultura de Segurança de Informação
 
-- 🧠 Tenho um conhecimento nas linguagens Kotlin, Java, C#, JavaScript. Possuo conhecimento também em HTML, CSS e na linguagem de dados SQL.
+- 🧠 Tenho um conhecimento básico nas linguagens Kotlin, Java, C#, JavaScript. Possuo conhecimento também em HTML, CSS e na linguagem de dados SQL.
 
 - 📫 Me contacte pelo e-mail: **julioholiveira7@gmail.com**
 
